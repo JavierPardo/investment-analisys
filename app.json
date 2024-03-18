@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "investment-analisys",
+    "name": "Investment Analisys",
     "slug": "investment-analisys",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -25,6 +25,17 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8ced133e-6b79-4392-a1e3-e2e2bdfdd30d"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/8ced133e-6b79-4392-a1e3-e2e2bdfdd30d"
     }
   }
 }
